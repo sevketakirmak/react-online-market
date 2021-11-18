@@ -1,0 +1,89 @@
+.menu {
+    background-color: #f25c54;
+    padding: 15px;
+    color: #f1faee;
+    display: flex;
+    justify-content: space-between;
+    font-size: 18px;
+}
+.menu a {
+    color: #f1faee;
+    text-decoration: none;
+    cursor: pointer;
+    position: relative;
+    display: inline-flex;
+}
+
+.menu a span:last-child {
+    font-size: 12px;
+    display: flex;
+    flex-flow: row wrap;
+    background-color: #f1faee;
+    color: #f25c54;
+    place-content: center;
+    align-items: center;
+    position: absolute;
+    right: -10px;
+    top: -5px;
+    min-width: 15px;
+    line-height: 1;
+    height: 15px;
+    border-radius: 20px;
+}
+.dropdown ul {
+    list-style: none;
+    padding: 0;
+    position: absolute;
+    right: 0;
+    width: 25%;
+    background-color: white;
+    color: black;
+}
+.dropdown ul li {
+    border-bottom: 1px solid #f25c54;
+    height: auto;
+}
+.itemImage img {
+    width: 100%;
+    height: 75px;
+    object-fit: cover;
+}
+.basketItem {
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    align-items: center;
+}
+.basketItem h3,
+p {
+    margin: 0;
+    text-transform: uppercase;
+}
+.deleteItem {
+    text-align: center;
+}
+.deleteItem button{
+    padding: 5px;
+    width: 100%;
+    color: #f1faee;
+    background: #f25c54;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.emptyBasket{
+    text-transform: uppercase;
+    text-align: center;
+    opacity: 0.5;
+}
+@media only screen and (max-width: 992px){
+    .dropdown ul{
+        width: 50%;
+    }
+}
+
+@media only screen and (max-width: 576px){
+    .dropdown ul{
+        width: 100%;
+    }
+}

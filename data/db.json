@@ -1,0 +1,189 @@
+{
+    "products":[
+        {
+            "id": 1,
+            "name": "muz kg",
+            "image": "https://images.unsplash.com/photo-1587334206596-c0f9f7dccbe6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=581&q=80",
+            "price": 9.90,
+            "categoryIdId": "1"
+        },
+        {
+            "id": 2,
+            "name": "üzüm kg",
+            "image": "https://images.unsplash.com/photo-1615485925763-86786288908a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+            "price": 11.50,
+            "categoryId": "1"
+        },
+        {
+            "id": 3,
+            "name": "nar kg",
+            "image": "https://images.unsplash.com/photo-1615485925600-97237c4fc1ec?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=580&q=80",
+            "price": 10.99,
+            "categoryId": "1"
+        },
+        {
+            "id": 4,
+            "name": "armut kg",
+            "image": "https://images.unsplash.com/photo-1615485925694-a03ef8fd9e12?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+            "price": 5.99,
+            "categoryId": "1"
+        },
+        {
+            "id": 5,
+            "name": "avakado adet",
+            "image": "https://images.unsplash.com/photo-1620101680137-6620a0e1803f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=464&q=80",
+            "price": 12.50,
+            "categoryId": "1"
+        },
+        {
+            "id": 6,
+            "name": "çilek kg",
+            "image": "https://images.unsplash.com/photo-1615484478073-001e0ebfd406?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=581&q=80",
+            "price": 15.50,
+            "categoryId": "1"
+        },
+        {
+            "id": 7,
+            "name": "karpuz adet",
+            "image": "https://images.unsplash.com/photo-1582281298055-e25b84a30b0b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=605&q=80",
+            "price": 9.99,
+            "categoryId": "1"
+        },
+        {
+            "id": 8,
+            "name": "elma kg",
+            "image": "https://images.unsplash.com/photo-1619546813926-a78fa6372cd2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+            "price": 5.50,
+            "categoryId": "1"
+        },
+        {
+            "id": 9,
+            "name": "mango adet",
+            "image": "https://images.unsplash.com/photo-1587486936739-78df7470c7e0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=581&q=80",
+            "price": 17.50,
+            "categoryId": "1"
+        },
+        {
+            "id": 10,
+            "name": "ahududu kg",
+            "image": "https://images.unsplash.com/photo-1615484477676-c6f3c18e8462?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+            "price": 22.90,
+            "categoryId": "1"
+        },
+        {
+            "id": 11,
+            "name": "çay 1000g",
+            "image": "https://images.unsplash.com/photo-1567570672006-d7dcee4e6d64?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+            "price": 25.90,
+            "categoryId": "2"
+        },
+        {
+            "id": 12,
+            "name": "kola kutu",
+            "image": "https://images.unsplash.com/photo-1527960392543-80cd0fa46382?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=327&q=80",
+            "price": 5.90,
+            "categoryId": "2"
+        },
+        {
+            "id": 13,
+            "name": "schweppes şişe",
+            "image": "https://images.unsplash.com/photo-1575830141352-37130008f0dc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=387&q=80",
+            "price": 7.99,
+            "categoryId": "2"
+        },
+        {
+            "id": 14,
+            "name": "kahve adet",
+            "image": "https://images.unsplash.com/photo-1565692936545-c23bd329340a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80",
+            "price": 9.99,
+            "categoryId": "2"
+        },
+        {
+            "id": 15,
+            "name": "bütün piliç 1kg",
+            "image": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+            "price": 19.99,
+            "categoryId": "3"
+        },
+        {
+            "id": 16,
+            "name": "balık 1kg",
+            "image": "https://images.unsplash.com/photo-1498654200943-1088dd4438ae?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+            "price": 23.99,
+            "categoryId": "3"
+        },
+        {
+            "id": 17,
+            "name": "köfte 500g",
+            "image": "https://images.unsplash.com/photo-1529042410759-befb1204b468?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=386&q=80",
+            "price": 19.99,
+            "categoryId": "3"
+        },
+        {
+            "id": 18,
+            "name": "burger 500gr",
+            "image": "https://images.unsplash.com/photo-1612078894671-f11ba41d713e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=387&q=80",
+            "price": 39.99,
+            "categoryId": "3"
+        },
+        {
+            "id": 19,
+            "name": "biftek kg",
+            "image": "https://images.unsplash.com/photo-1588347818036-558601350947?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+            "price": 49.99,
+            "categoryId": "3"
+        },
+        {
+            "id": 20,
+            "name": "çikolata adet",
+            "image": "https://images.unsplash.com/photo-1614088685112-0a760b71a3c8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+            "price": 9.99,
+            "categoryId": "4"
+        },
+        {
+            "id": 21,
+            "name": "doritos cipsi adet",
+            "image": "https://images.unsplash.com/photo-1600952841320-db92ec4047ca?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=425&q=80",
+            "price": 8.80,
+            "categoryId": "4"
+        },
+        {
+            "id": 22,
+            "name": "waffle 2 adet",
+            "image": "https://images.unsplash.com/photo-1562376552-0d160a2f238d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=725&q=80",
+            "price": 15.99,
+            "categoryId": "4"
+        },
+        {
+            "id": 23,
+            "name": "biskuvi 1 paket",
+            "image": "https://images.unsplash.com/photo-1551584277-a31a25e08fc8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+            "price": 5.50,
+            "categoryId": "4"
+        },
+        {
+            "id": 24,
+            "name": "patetes cips adet",
+            "image": "https://images.unsplash.com/photo-1613462847848-f65a8b231bb5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+            "price": 9.99,
+            "categoryId": "4"
+        }
+    ],
+    "category": [
+        {
+            "id": 1,
+            "name": "meyve"
+        },
+        {
+            "id": 2,
+            "name": "içecek"
+        },
+        {
+            "id": 3,
+            "name": "et ürünleri"
+        },{
+            "id": 4,
+            "name": "atıştırmalık"
+        }
+    ]
+}
