@@ -29,7 +29,7 @@ export const removeCharge = (price) => {
 }
 
 export const getProducts = (categoryId) => async(dispatch) =>{
-    const response = await axios.get('http://localhost:8000/products', {
+    const response = await axios.get('https://react-online-market.herokuapp.com/api/products', {
         params: {
             categoryId: categoryId
         }
@@ -40,7 +40,7 @@ export const getProducts = (categoryId) => async(dispatch) =>{
 
 export const getCategory = (name) => async (dispatch) =>{
 
-    const response = await axios.get('http://localhost:8000/category',{
+    const response = await axios.get('https://react-online-market.herokuapp.com/api/category',{
         params:{
             name: name,
         }
