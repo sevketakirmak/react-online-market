@@ -1,3 +1,7 @@
+# React Online Market
+
+Live demo [here](https://react-online-market.herokuapp.com/). Loading data via [JSON Server](https://github.com/typicode/json-server).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
